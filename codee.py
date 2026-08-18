@@ -9,7 +9,7 @@ from aiohttp import web
 # НАСТРОЙКИ (Всё уже вписано!)
 # ====================================================================
 BOT_TOKEN = "8638853460:AAFKLrW7LhlTMCAPpArQpjBcjHJ1Ek4ROaU"
-ADMIN_ID = 7571098290
+ADMIN_ID = 732059307
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
